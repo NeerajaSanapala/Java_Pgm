@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is A2DA-927F
+
+ Directory of C:\Users\neera\eclipse-workspace\Sample_Jenkins\src
+
+27-11-2024  00:15    <DIR>          .
+26-11-2024  00:10    <DIR>          ..
+26-11-2024  00:10                73 module-info.java
+27-11-2024  00:15                 0 s1.txt
+26-11-2024  00:12    <DIR>          sample
+27-11-2024  00:10               457 sample.txt
+               3 File(s)            530 bytes
+               3 Dir(s)  64,028,356,608 bytes free
